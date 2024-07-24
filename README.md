@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msdaphne
 - 👀 I’m interested in tech and astronomy
-- 🌱 I’m currently learning Power BI
+- 🌱 I’m currently learning Azure AI
 - 💞️ I’m looking to collaborate on Open Source and sustainability projects.
 
 <!---
